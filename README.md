@@ -1,6 +1,5 @@
 # Grundlagen-in-JavaScript
--- Funktionale Programmierung
--- Funkionale reaktive Programmierung 
+-- Funktionale Programmierung, -- Funkionale reaktive Programmierung 
 -- Callback Funktion mit zwei Parameter
 -- Callback Handler
 -- Callback Pattern
