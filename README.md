@@ -1,4 +1,5 @@
 # Grundlagen-in-JavaScript
+# Status: laufend
 - Hello World
 - Funktionale Programmierung, Funkionale reaktive Programmierung, Callback Funktion mit zwei Parameter
 - Callback Handler
