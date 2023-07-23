@@ -1,6 +1,12 @@
 # Grundlagen-in-JavaScript
 # Status: laufend
+
+Grundlagen in JavaScript:
 - Hello World
+- Variablen in JavaScript
+
+
+Fortgeschrittende Themen in Javascript:
 - Funktionale Programmierung, Funkionale reaktive Programmierung, Callback Funktion mit zwei Parameter
 - Callback Handler
 - Callback Pattern
