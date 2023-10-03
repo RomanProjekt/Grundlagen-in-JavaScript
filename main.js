@@ -1,6 +1,5 @@
 //import { Observable } from `rxjs`;
-rx = require('rxjs');
-
+rx = require("rxjs");
 
 const observable = new rx.Observable((subscriber) => {
   subscriber.next(1);
